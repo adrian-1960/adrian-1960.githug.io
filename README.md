@@ -14,12 +14,12 @@
   <script>
     // 🔧 Configura tu Firebase
     const firebaseConfig = {
-      apiKey: "AIzaSyAhDUAaGEsfArtml5dvf49DtobpWmrmBJA",
-      authDomain: " "esp32-s3-adr.firebaseapp.com",
-      databaseURL: "https://esp32-s3-adr-default-rtdb.firebaseio.com",
-      projectId:  "esp32-s3-adr",
-      storageBucket: ""esp32-s3-adr.firebasestorage.app",
-      messagingSenderId: " "22420972699",
+      apiKey:"AIzaSyAhDUAaGEsfArtml5dvf49DtobpWmrmBJA",
+      authDomain:"esp32-s3-adr.firebaseapp.com",
+      databaseURL:"https://esp32-s3-adr-default-rtdb.firebaseio.com",
+      projectId:"esp32-s3-adr",
+      storageBucket:"esp32-s3-adr.firebasestorage.app",
+      messagingSenderId:"22420972699",
       appId: "1:22420972699:web:b6bb1f65e2fc49da1c923e",
     };
 
